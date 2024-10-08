@@ -1,6 +1,6 @@
 # BH-PCMLAI-PA2-M11 - What drives the price of a car?
 
-Link to Notebook: 
+Link to Notebook: https://github.com/n-tanay/BH-PCMLAI-PA2-M11-SUB/blob/main/BH-PCMLAI-PA2-M11-What-Drives-Car-Price.ipynb
 
 ## Business Understanding
 
